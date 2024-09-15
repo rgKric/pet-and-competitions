@@ -1,1 +1,1 @@
-# pet-and-scompetitions
+# pet-and-competitions
